@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.delcol{
+    background-color: blueviolet;
+}
+li{
+    content: none;
+}
+.del{
+    margin-left: 20px;
+}
+.edit{
+    margin-left: 4px;
+}
